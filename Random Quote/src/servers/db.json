@@ -1,0 +1,69 @@
+{
+    "quotes": [
+        {
+            "id": 1,
+            "text": "Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness.",
+            "author": "Carl Gustav Jung"
+        },
+        {
+            "id": 2,
+            "text": "Deep breathing is our nervous system's love language.",
+            "author": "Dr. Lauren Fogel Mersy"
+        },
+        {
+            "id": 3,
+            "text": "Self-care is how you take your power back.",
+            "author": "Lalah Delia"
+        },
+        {
+            "id": 4,
+            "text": "The best way to find out whether you're on the right path? Stop looking at the path.",
+            "author": "Marcus Buckingham"
+        },
+        {
+            "id": 5,
+            "text": "You can do anything once you stop trying to do everything!",
+            "author": "Eric Barker"
+        },
+        {
+            "id": 6,
+            "text": "Every person on this earth is full of great possibilities that can be realized through imagination, effort, and perseverance.",
+            "author": "Scott Barry Kaufmann"
+        },
+        {
+            "id": 7,
+            "text": "Permit yourself to change your mind when something is no longer working for you.",
+            "author": "Nedra Glover Tawwab"
+        },
+        {
+            "id": 8,
+            "text": "The truth is, bad things don't affect us as profoundly as we expect them to. That's true of good things, too. We adapt very quickly to either.",
+            "author": "Daniel Gilbert"
+        },
+        {
+            "id": 9,
+            "text": "When we are open to new possibilities, we find them. Be open and skeptical of everything.",
+            "author": "Todd Kashdan"
+        },
+        {
+            "id": 10,
+            "text": "Genuine feelings cannot be produced, nor can they be eradicated… the body sticks to the facts.",
+            "author": "Alice Miller"
+        },
+        {
+            "id": 11,
+            "text": "Becoming is better than being.",
+            "author": "Carol S. Dweck"
+        },
+        {
+            "id": 12,
+            "text": "How hurtful it can be to deny one's true self and live a life of lies just to appease others.",
+            "author": "June Ahern"
+        },
+        {
+            "id": 13,
+            "text": "Reality denied comes back to haunt.",
+            "author": "Philip K. Dick"
+        }
+    ]
+}
