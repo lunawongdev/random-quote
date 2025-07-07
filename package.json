@@ -1,6 +1,7 @@
 {
   "name": "random-quote",
   "private": true,
+  "homepage": "https://lunawongdev.github.io/random-quote/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
